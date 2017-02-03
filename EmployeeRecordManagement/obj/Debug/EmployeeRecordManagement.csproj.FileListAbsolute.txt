@@ -1,0 +1,38 @@
+D:\EmployeeRecordManagement\EmployeeRecordManagement\bin\Debug\EmployeeRecordManagement.exe.config
+D:\EmployeeRecordManagement\EmployeeRecordManagement\bin\Debug\EmployeeRecordManagement.exe
+D:\EmployeeRecordManagement\EmployeeRecordManagement\bin\Debug\EmployeeRecordManagement.pdb
+D:\EmployeeRecordManagement\EmployeeRecordManagement\obj\Debug\EmployeeRecordManagement.csprojResolveAssemblyReference.cache
+D:\EmployeeRecordManagement\EmployeeRecordManagement\obj\Debug\EmployeeRecordManagement.body.resources
+D:\EmployeeRecordManagement\EmployeeRecordManagement\obj\Debug\EmployeeRecordManagement.Properties.Resources.resources
+D:\EmployeeRecordManagement\EmployeeRecordManagement\obj\Debug\EmployeeRecordManagement.csproj.GenerateResource.Cache
+D:\EmployeeRecordManagement\EmployeeRecordManagement\obj\Debug\EmployeeRecordManagement.exe
+D:\EmployeeRecordManagement\EmployeeRecordManagement\obj\Debug\EmployeeRecordManagement.pdb
+C:\Users\sirjan\Documents\Visual Studio 2013\Projects\EmployeeRecordManagement\EmployeeRecordManagement\bin\Debug\EmployeeRecordManagement.exe.config
+C:\Users\sirjan\Documents\Visual Studio 2013\Projects\EmployeeRecordManagement\EmployeeRecordManagement\bin\Debug\EmployeeRecordManagement.exe.manifest
+C:\Users\sirjan\Documents\Visual Studio 2013\Projects\EmployeeRecordManagement\EmployeeRecordManagement\bin\Debug\EmployeeRecordManagement.application
+C:\Users\sirjan\Documents\Visual Studio 2013\Projects\EmployeeRecordManagement\EmployeeRecordManagement\bin\Debug\EmployeeRecordManagement.exe
+C:\Users\sirjan\Documents\Visual Studio 2013\Projects\EmployeeRecordManagement\EmployeeRecordManagement\bin\Debug\EmployeeRecordManagement.pdb
+C:\Users\sirjan\Documents\Visual Studio 2013\Projects\EmployeeRecordManagement\EmployeeRecordManagement\obj\Debug\EmployeeRecordManagement.BaseForm.resources
+C:\Users\sirjan\Documents\Visual Studio 2013\Projects\EmployeeRecordManagement\EmployeeRecordManagement\obj\Debug\EmployeeRecordManagement.Chart.resources
+C:\Users\sirjan\Documents\Visual Studio 2013\Projects\EmployeeRecordManagement\EmployeeRecordManagement\obj\Debug\EmployeeRecordManagement.EmployeeForm.resources
+C:\Users\sirjan\Documents\Visual Studio 2013\Projects\EmployeeRecordManagement\EmployeeRecordManagement\obj\Debug\EmployeeRecordManagement.EmployeeList.resources
+C:\Users\sirjan\Documents\Visual Studio 2013\Projects\EmployeeRecordManagement\EmployeeRecordManagement\obj\Debug\EmployeeRecordManagement.PayrollForm.resources
+C:\Users\sirjan\Documents\Visual Studio 2013\Projects\EmployeeRecordManagement\EmployeeRecordManagement\obj\Debug\EmployeeRecordManagement.PayrollReport.resources
+C:\Users\sirjan\Documents\Visual Studio 2013\Projects\EmployeeRecordManagement\EmployeeRecordManagement\obj\Debug\EmployeeRecordManagement.Properties.Resources.resources
+C:\Users\sirjan\Documents\Visual Studio 2013\Projects\EmployeeRecordManagement\EmployeeRecordManagement\obj\Debug\EmployeeRecordManagement.csproj.GenerateResource.Cache
+C:\Users\sirjan\Documents\Visual Studio 2013\Projects\EmployeeRecordManagement\EmployeeRecordManagement\obj\Debug\EmployeeRecordManagement.exe.manifest
+C:\Users\sirjan\Documents\Visual Studio 2013\Projects\EmployeeRecordManagement\EmployeeRecordManagement\obj\Debug\EmployeeRecordManagement.application
+C:\Users\sirjan\Documents\Visual Studio 2013\Projects\EmployeeRecordManagement\EmployeeRecordManagement\obj\Debug\EmployeeRecordManagement.exe
+C:\Users\sirjan\Documents\Visual Studio 2013\Projects\EmployeeRecordManagement\EmployeeRecordManagement\obj\Debug\EmployeeRecordManagement.pdb
+C:\Users\sirjan\Documents\Visual Studio 2013\Projects\EmployeeRecordManagement\EmployeeRecordManagement\obj\Debug\EmployeeRecordManagement.csprojResolveAssemblyReference.cache
+D:\college\Assignments\Application Development\EmployeeRecordManagement\EmployeeRecordManagement\obj\Debug\EmployeeRecordManagement.csprojResolveAssemblyReference.cache
+D:\college\Assignments\Application Development\EmployeeRecordManagement\EmployeeRecordManagement\obj\Debug\EmployeeRecordManagement.BaseForm.resources
+D:\college\Assignments\Application Development\EmployeeRecordManagement\EmployeeRecordManagement\obj\Debug\EmployeeRecordManagement.Chart.resources
+D:\college\Assignments\Application Development\EmployeeRecordManagement\EmployeeRecordManagement\obj\Debug\EmployeeRecordManagement.EmployeeForm.resources
+D:\college\Assignments\Application Development\EmployeeRecordManagement\EmployeeRecordManagement\obj\Debug\EmployeeRecordManagement.EmployeeList.resources
+D:\college\Assignments\Application Development\EmployeeRecordManagement\EmployeeRecordManagement\obj\Debug\EmployeeRecordManagement.PayrollForm.resources
+D:\college\Assignments\Application Development\EmployeeRecordManagement\EmployeeRecordManagement\obj\Debug\EmployeeRecordManagement.PayrollReport.resources
+D:\college\Assignments\Application Development\EmployeeRecordManagement\EmployeeRecordManagement\obj\Debug\EmployeeRecordManagement.Properties.Resources.resources
+D:\college\Assignments\Application Development\EmployeeRecordManagement\EmployeeRecordManagement\obj\Debug\EmployeeRecordManagement.csproj.GenerateResource.Cache
+D:\college\Assignments\Application Development\EmployeeRecordManagement\EmployeeRecordManagement\obj\Debug\EmployeeRecordManagement.exe
+D:\college\Assignments\Application Development\EmployeeRecordManagement\EmployeeRecordManagement\obj\Debug\EmployeeRecordManagement.pdb

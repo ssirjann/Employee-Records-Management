@@ -1,0 +1,15 @@
+C:\Users\sirjan\Documents\Visual Studio 2013\Projects\EmployeeRecordManagement\EmployeeRecordManagement\bin\Release\EmployeeRecordManagement.exe.config
+C:\Users\sirjan\Documents\Visual Studio 2013\Projects\EmployeeRecordManagement\EmployeeRecordManagement\bin\Release\EmployeeRecordManagement.exe
+C:\Users\sirjan\Documents\Visual Studio 2013\Projects\EmployeeRecordManagement\EmployeeRecordManagement\bin\Release\EmployeeRecordManagement.pdb
+C:\Users\sirjan\Documents\Visual Studio 2013\Projects\EmployeeRecordManagement\EmployeeRecordManagement\obj\Release\EmployeeRecordManagement.BaseForm.resources
+C:\Users\sirjan\Documents\Visual Studio 2013\Projects\EmployeeRecordManagement\EmployeeRecordManagement\obj\Release\EmployeeRecordManagement.Chart.resources
+C:\Users\sirjan\Documents\Visual Studio 2013\Projects\EmployeeRecordManagement\EmployeeRecordManagement\obj\Release\EmployeeRecordManagement.EmployeeForm.resources
+C:\Users\sirjan\Documents\Visual Studio 2013\Projects\EmployeeRecordManagement\EmployeeRecordManagement\obj\Release\EmployeeRecordManagement.Form1.resources
+C:\Users\sirjan\Documents\Visual Studio 2013\Projects\EmployeeRecordManagement\EmployeeRecordManagement\obj\Release\EmployeeRecordManagement.ListEmployeesForm.resources
+C:\Users\sirjan\Documents\Visual Studio 2013\Projects\EmployeeRecordManagement\EmployeeRecordManagement\obj\Release\EmployeeRecordManagement.PayrollForm.resources
+C:\Users\sirjan\Documents\Visual Studio 2013\Projects\EmployeeRecordManagement\EmployeeRecordManagement\obj\Release\EmployeeRecordManagement.PayrollReport.resources
+C:\Users\sirjan\Documents\Visual Studio 2013\Projects\EmployeeRecordManagement\EmployeeRecordManagement\obj\Release\EmployeeRecordManagement.Properties.Resources.resources
+C:\Users\sirjan\Documents\Visual Studio 2013\Projects\EmployeeRecordManagement\EmployeeRecordManagement\obj\Release\EmployeeRecordManagement.csproj.GenerateResource.Cache
+C:\Users\sirjan\Documents\Visual Studio 2013\Projects\EmployeeRecordManagement\EmployeeRecordManagement\obj\Release\EmployeeRecordManagement.exe
+C:\Users\sirjan\Documents\Visual Studio 2013\Projects\EmployeeRecordManagement\EmployeeRecordManagement\obj\Release\EmployeeRecordManagement.pdb
+C:\Users\sirjan\Documents\Visual Studio 2013\Projects\EmployeeRecordManagement\EmployeeRecordManagement\obj\Release\EmployeeRecordManagement.UserControl1.resources
